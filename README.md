@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @JKwon-37
-- 👀 I’m interested in recreational flag football/olympic weightlifting/track/anime
-- 🌱 I’m currently in a coding bootcamp to kickstart a software engineer career path
-- 💞️ I’m looking to collaborate on future projects!
-- 📫 How to reach me: jonathankwon@yahoo.com
-
-
+- 👋 Hi, I’m Jonathan Kwon
+I am a software developer that is a Coding Dojo alumni and also a game designer that is University of Washington Continuing Education Alumni.
+I have an interest in game development and web applications with experience in C#, Python, Javascript, and HTML/CSS.  
