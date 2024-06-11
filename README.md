@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jonathan Kwon
-I am a software developer that is a Coding Dojo alumni and also a game designer that is University of Washington Continuing Education Alumni.
-I have an interest in game development and web applications with experience in C#, Python, Javascript, and HTML/CSS.  
+I'm in my early 30's and have placed a roadmap to become a software engineer through self-learning! 
+The journey will be extremely hard, but with perseverance and sheer will, I will dedicate my spare time to make this a reality!  :)
